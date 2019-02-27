@@ -1,6 +1,6 @@
 # hhhh
 
-A new Flutter project.
+This is a flutter demo for a news app
 
 ## Getting Started
 
